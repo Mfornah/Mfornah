@@ -1,6 +1,6 @@
 
 <div id="header" aling="center">
- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzljODNmODEzMWEyMjg2ZjI4MzUxYWFhM2ExZDgwZTdjYzc1ZTdlNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/RjfXaD7oKscJaGO7c8/giphy-downsized-large.gif" width="200"/>
+ <img src="https://media.giphy.com/media/BHv2DEk0iDiKhOJOUL/giphy.gif" width="200"/>
  <h1 aling="center">Hi! 👋 I´m Moha</h1>
 </div>
  
